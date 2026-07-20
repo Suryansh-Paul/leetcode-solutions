@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
