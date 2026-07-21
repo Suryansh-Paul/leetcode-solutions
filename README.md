@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
