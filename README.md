@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
