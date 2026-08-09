@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -192,8 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
