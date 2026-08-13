@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Simulation
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -224,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
