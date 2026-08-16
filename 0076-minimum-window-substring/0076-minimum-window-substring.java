@@ -1,64 +1,60 @@
 class Solution {
     public String minWindow(String s, String t) {
+        if(t.length()>s.length()){
+            return "";       
+             }
 
-        if (t.length() > s.length()) {
-            return "";
-        }
+             Map<Character,Integer> window = new HashMap<>();
+             Map<Character,Integer> need = new HashMap<>();
 
-        HashMap<Character, Integer> need = new HashMap<>();
-        HashMap<Character, Integer> window = new HashMap<>();
+             for(int i=0;i<t.length();i++){
+                char ch = t.charAt(i);
+                need.put(ch,need.getOrDefault(ch,0)+1);
+             }
 
-        for (int i = 0; i < t.length(); i++) {
-            char c = t.charAt(i);
-            need.put(c, need.getOrDefault(c, 0) + 1);
-        }
+             int left=0;
+             int right=0;
+             int required = need.size();
+             int formed =0;
+             int minlength = Integer.MAX_VALUE;
+             int start=0;
 
-        int left = 0;
-        int right = 0;
+             while(right<s.length()){
+                 
+                 char c = s.charAt(right);
+                 window.put(c,window.getOrDefault(c,0)+1);
 
-        int formed = 0;
-        int required = need.size();
+                 if(need.containsKey(c)&&window.get(c).equals(need.get(c))){
+                    formed++;
+                 }
+                 while(formed==required){
+                    if(right-left+1<minlength){
+                        minlength =right-left+1;
+                        start=left;
+                    }
+                 
 
-        int minLength = Integer.MAX_VALUE;
-        int start = 0;
+                 char leftchar = s.charAt(left);
 
-        while (right < s.length()) {
+                 
+                 window.put(leftchar,window.get(leftchar)-1);
 
-            char c = s.charAt(right);
 
-            window.put(c, window.getOrDefault(c, 0) + 1);
-
-            if (need.containsKey(c) &&
-                window.get(c).equals(need.get(c))) {
-                formed++;
-            }
-
-            while (formed == required) {
-
-                if (right - left + 1 < minLength) {
-                    minLength = right - left + 1;
-                    start = left;
-                }
-
-                char leftChar = s.charAt(left);
-
-                window.put(leftChar, window.get(leftChar) - 1);
-
-                if (need.containsKey(leftChar) &&
-                    window.get(leftChar) < need.get(leftChar)) {
+                 if(need.containsKey(leftchar)&& window.get(leftchar)<need.get(leftchar)){
                     formed--;
-                }
+                 }
 
-                left++;
-            }
+                 
+                 left++;
+                 }
+                 right++;
 
-            right++;
-        }
+             }
 
-        if (minLength == Integer.MAX_VALUE) {
-            return "";
-        }
-
-        return s.substring(start, start + minLength);
+             if(minlength==Integer.MAX_VALUE){
+                return "";
+             }
+             return s.substring(start,start+minlength);
+             
     }
 }
