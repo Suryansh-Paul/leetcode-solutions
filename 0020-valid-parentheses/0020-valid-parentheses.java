@@ -11,8 +11,8 @@ class Solution {
                 if (stack.isEmpty()) {
                     return false;
                 }
-
-                char top = stack.pop();
+                   
+                 char top = stack.pop();
 
                 if ((c == ')' && top != '(') ||
                     (c == '}' && top != '{') ||
