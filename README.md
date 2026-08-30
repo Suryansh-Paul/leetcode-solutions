@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Suryansh-Paul/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
